@@ -1,5 +1,5 @@
 # Repo-1
-Maximum Sum of Sub-array
+Maximum Sum of Sub-array using Kadane's Algorithm
 import java.util.*;
 
 public class MaxSumOfArray
